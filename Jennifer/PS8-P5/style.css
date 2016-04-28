@@ -1,0 +1,39 @@
+body {
+	background-color: pink;
+}
+
+#title {
+	text-align: center;
+}
+
+#P1 {
+	display: inline;
+	position: relative;
+}
+
+#P2 {
+	display: inline;
+	position: relative;
+	margin-left: 500px;
+}
+
+#ss {
+	display: inline-block;
+	position: relative;
+	bottom: 545px;
+	left: 555px;	
+}
+
+#ptext {
+	display: inline;
+	position: relative;
+	bottom: 650px;
+}
+
+#sstext {
+	display: incline-block;
+	position: relative;
+	bottom: 690px;
+	left: 555px;
+}
+
