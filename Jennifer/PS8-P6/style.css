@@ -1,8 +1,38 @@
-#container {
-	background-color: purple;
+body {
+  background: radial-gradient(circle,black,purple,black,purple);
 }
-
-#header h1 {
-	display: inline-block;
-	right: 100px;
+#lpslogo {
+  width: 200px;
+  display: inline-block;
+}
+#hlps{
+  width: 400px;
+  display: inline-block;
+  color: white; 
+}
+.navbar {
+  background-color: white;
+  padding: 7px;
+  word-spacing: 195px; 
+}
+.navbar h3 {
+  display: inline;
+}
+#volleyball {
+  display: block;
+  margin: 0 auto;
+}
+.athletics strong {
+  color: white;
+  text-align: center;
+}
+.athletics {
+  color: white;
+  text-align: center;
+}
+.footer h4{
+  background-color: white;  
+  height: 200px;
+  padding: 14px;
+  display: inline;
 }
